@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stenderklaus" alt="stenderklaus" /></a> </p>
 
-- 🌱 I’m currently learning **mySQL, MongoDB**
+- 🌱 I’m currently learning **Typescript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
